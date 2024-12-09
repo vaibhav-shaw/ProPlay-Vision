@@ -61,7 +61,15 @@ To set up and run the project:
 
 ---
 
-## Screenshot
+## Sample Input Video  
+- [Watch the sample input video here](https://drive.google.com/file/d/1-3tPhsewcTOfkwy4FL8D04pjf1GMO7sj/view?usp=sharing)  
+
+## Sample Output Video  
+- [Watch the sample output video here](https://youtu.be/8oE5LEsg_Cs)  
+
+---
+
+## Screenshot from Output Video Generated
 ![Screenshot](screenshot.png)
 
 ---
