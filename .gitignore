@@ -1,0 +1,21 @@
+# Python cache files
+*__pycache__*
+*.pyc
+
+# Virtual environment
+venv/
+
+# Model and multimedia files
+*.pt
+*.mp4
+*.avi
+*.jpg
+
+# Environment file
+.env
+
+# Training and specific project folders
+training/football-players-detection-12/
+
+# Specific Python script
+yolo_inference.py
