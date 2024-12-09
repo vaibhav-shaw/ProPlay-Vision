@@ -30,6 +30,19 @@ This system not only identifies and tracks objects but also clusters players int
 
 ---
 
+## Sample Input Video  
+- [Watch the sample input video here](https://drive.google.com/file/d/1-3tPhsewcTOfkwy4FL8D04pjf1GMO7sj/view?usp=sharing)  
+
+## Sample Output Video  
+- [Watch the sample output video here](https://youtu.be/8oE5LEsg_Cs)  
+
+---
+
+## Screenshot from Output Video Generated
+![Screenshot](screenshot.png)
+
+---
+
 ## Project Modules
 The following modules and techniques are integral to the system:  
 - **YOLO (You Only Look Once):** State-of-the-art object detection for real-time video analysis.  
@@ -58,19 +71,6 @@ To set up and run the project:
 - `Automated ball possession statistics for team strategy.`
 - `Advanced video analytics for coaches and analysts.`
 - `Real-world movement metrics for enhanced player evaluation.`
-
----
-
-## Sample Input Video  
-- [Watch the sample input video here](https://drive.google.com/file/d/1-3tPhsewcTOfkwy4FL8D04pjf1GMO7sj/view?usp=sharing)  
-
-## Sample Output Video  
-- [Watch the sample output video here](https://youtu.be/8oE5LEsg_Cs)  
-
----
-
-## Screenshot from Output Video Generated
-![Screenshot](screenshot.png)
 
 ---
 
